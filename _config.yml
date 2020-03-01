@@ -6,7 +6,7 @@
 name: Karthik Jagannathan
 
 # Short bio or description (displayed in the header)
-description: Developer | Engineer | Architect
+description: Developer. Engineer. Architect
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/1775736?s=400&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: karthikjag
   instagram:
-  linkedin:
+  linkedin: karthikjagannathan
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://karthikjag.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

@@ -4,12 +4,36 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Developer. Engineer. Architect
 
-### More Information
+## Personal Projects
 
-A place to include any other types of information that you'd like to include about yourself.
+**Archives**
 
-### Contact me
+An app to catalog your collection of Books, Games, Movies and Music  
+*[React, NodeJS, MongoDB]*
 
-[email@domain.com](mailto:email@domain.com)
+<a href="https://github.com/karthikjag/archives-app" target="_blank">app</a>
+<a href="https://github.com/karthikjag/archives-api" target="_blank">api</a>
+
+***
+
+
+**News Aggregator**
+
+Aggregate news from multiple sources  
+*[React, NodeJS]*
+
+<a href="https://github.com/karthikjag/news-aggregator-app" target="_blank">app</a>
+<a href="https://github.com/karthikjag/news-aggregator-api" target="_blank">api</a>
+
+***
+
+**Game Catalog**
+
+Game cataloging app  
+*[React, NodeJS, MongoDB]*
+
+***
+
+*more on the way...*

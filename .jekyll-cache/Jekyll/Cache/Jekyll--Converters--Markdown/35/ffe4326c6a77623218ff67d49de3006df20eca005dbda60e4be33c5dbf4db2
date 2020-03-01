@@ -1,0 +1,35 @@
+I"¢<p>Developer. Engineer. Architect</p>
+
+<h2 id="personal-projects">Personal Projects</h2>
+
+<p><img src="/images/jekyll-logo.png" alt="logo" title="logo" /></p>
+
+<p><strong>Archives</strong></p>
+
+<p>An app to catalog your collection of Books, Games, Movies and Music<br />
+<em>[React, NodeJS, MongoDB]</em></p>
+
+<p><a href="https://github.com/karthikjag/archives-app" target="_blank">app</a>
+<a href="https://github.com/karthikjag/archives-api" target="_blank">api</a></p>
+
+<hr />
+
+<p><strong>News Aggregator</strong></p>
+
+<p>Aggregate news from multiple sources<br />
+<em>[React, NodeJS]</em></p>
+
+<p><a href="https://github.com/karthikjag/news-aggregator-app" target="_blank">app</a>
+<a href="https://github.com/karthikjag/news-aggregator-api" target="_blank">api</a></p>
+
+<hr />
+
+<p><strong>Game Catalog</strong></p>
+
+<p>Game cataloging app<br />
+<em>[React, NodeJS, MongoDB]</em></p>
+
+<hr />
+
+<p><em>more on the wayâ€¦</em></p>
+:ET
